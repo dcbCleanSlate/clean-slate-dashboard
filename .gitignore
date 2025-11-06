@@ -1,0 +1,5 @@
+node_modules
+participants.json
+.env
+.DS_Store
+
